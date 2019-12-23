@@ -5,16 +5,18 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## About me
+Hey there, I am Bhavana aka Bana aka 2/3’s a banana (easier ?).
 
-From this point we should already have:
+I am the engineer who is appreciating engineering and technology the more I surround myself with it. 10 years back I couldn’t have cared less; now I can’t get enough of it.
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks
-- Sass pipeline
-- JS pipeline
-- JS [search index](/search.json) generator
-- Serverless (FaaS) development pipeline with Netlify Functions for Lambda
+I am constantly discovering things that I am good at and things that I like to do. Always excited to learn new things, I will soon find the sweet spot between the two. Till then, the search continues.
+
+When I am not in San Francisco, I am traveling the world, making up for the lack of it in the first 17 years of my life. I haven’t heard 3 sweeter words – Open Vacation Policy.
+
+Home is where the heart is, and that is Chennai, India for me.
+
+I currently work at PubNub, where I spend time looking for the perfect gif to send in response to anything.
 
 
 ## Post pages

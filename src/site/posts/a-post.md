@@ -1,20 +1,13 @@
 ---
-title: A post page
-date: 2018-03-21
+title: From Marketing to Sales
+date: 2017-03-1
 ---
+Its been a year and a half since I joined PubNub as a developer evangelist. Its been a year of building demos with PubNub SDKs, attending different events, organizing meetups and speaking at them. After a couple of months into the role, I finally was able to coherently explain what PubNub is, clearly with examples and use cases, to prospects, customers, friends, developers and my parents. Based on my audience, I had to tweak the examples and description. My mom is not going to understand when I say data stream network, or TCP or SDKs. She understands realtime chat, she gets taxi dispatch applications and multi player games. By talking in terms of use cases, I was able to get the point across to her, about what PubNub does and what I do. Even my role, being a technical evangelist, is confusing to her. I tell her to think of me as spreading the word about PubNub.
 
-There's not much here in the sample post page. Better get to work.
+Anyway, back to my point. The more people I spoke to, the more I got comfortable explaining PubNub. I started sitting on a couple of customer calls, to understand their use case, and how PubNub can help them flesh it out. I need to be able to think on my feet, on the call, the best way to architect their application by incorporating PubNub into their technical stack. The more I did this, the more I enjoyed it. On one side I was talking to developers at events and conferences, and getting them excited to use PubNub for their realtime needs. On the other hand, I was talking to a really small audience – the CTO of a company, or the product lead or the developer on how to integrate PubNub into their application. I enjoyed both aspects of it equally, both kept me on my toes at all times.
 
-The common front-matter data for all of the files in the posts section are abstracted into a `posts.json` file so that we don't need to repeat that on every file. Handy.
+After a year of being a developer evangelist, I finally made the decision to shift gears and move to the Customer Success Team as a Solutions architect. I now talk to customers day in and out. Customers from all over the world, small and big. Some in the middle of the night, some in the wee hours of the morning. Whether it is helping them architect their application, or supporting them when the app fails or just regular health checks, I enjoy all aspects of it. The initial plan was to sit in on other CSA’s calls till I learn the ropes, but I was thrown into the pool before I could barely swim. This approach worked well for me, both for swimming and getting better at this role. I could have shadowed a CSA all I wanted, but I learnt so much more diving head first into the calls myself. Every day I am learning something new – from optimizing the process to learning more about PubNub’s architecture or just learning how to deal with different kinds of customers.
 
-It looks like this:
-
-```
-{
-  "layout" : "layouts/post.md",
-  "tags" : "post",
-  "templateEngineOverride": "njk,md"
-}
-```
+I am glad to be part of a company that looks out for the needs of their employees, and gave me a chance to try out this new role. 2017 – bring it on !
 
 
